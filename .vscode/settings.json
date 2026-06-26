@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.bhailang": "bhailang",
-        "ostream": "cpp",
-        "iostream": "cpp"
-    }
-}
